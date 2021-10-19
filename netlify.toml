@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/registration"
+to = "/registration/pre-registration/index.html"
+status=200
+force=true
